@@ -1,0 +1,52 @@
+=============== May 6, 2021 (EDT) ===============
+06:23:40.532164 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+06:23:40.539838 db@open opening
+06:23:40.542711 version@stat F·[] S·0B[] Sc·[]
+06:23:40.544607 db@janitor F·2 G·0
+06:23:40.545048 db@open done T·4.874ms
+=============== May 6, 2021 (EDT) ===============
+06:26:22.662587 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+06:26:22.667396 version@stat F·[] S·0B[] Sc·[]
+06:26:22.667757 db@open opening
+06:26:22.668314 journal@recovery F·1
+06:26:22.668971 journal@recovery recovering @1
+06:26:22.673602 memdb@flush created L0@2 N·2 S·127B "high,v2":"low,v1"
+06:26:22.675363 version@stat F·[1] S·127B[127B] Sc·[0.25]
+06:26:22.684405 db@janitor F·3 G·0
+06:26:22.684805 db@open done T·16.689ms
+=============== May 6, 2021 (EDT) ===============
+12:52:57.469745 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:52:57.473075 version@stat F·[1] S·127B[127B] Sc·[0.25]
+12:52:57.473868 db@open opening
+12:52:57.475525 journal@recovery F·1
+12:52:57.476381 journal@recovery recovering @3
+12:52:57.479318 version@stat F·[1] S·127B[127B] Sc·[0.25]
+12:52:57.488180 db@janitor F·3 G·0
+12:52:57.488625 db@open done T·13.485ms
+=============== May 6, 2021 (EDT) ===============
+12:53:33.414193 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:53:33.418275 version@stat F·[1] S·127B[127B] Sc·[0.25]
+12:53:33.418697 db@open opening
+12:53:33.419400 journal@recovery F·1
+12:53:33.420052 journal@recovery recovering @5
+12:53:33.424549 version@stat F·[1] S·127B[127B] Sc·[0.25]
+12:53:33.449403 db@janitor F·3 G·0
+12:53:33.449837 db@open done T·30.672ms
+=============== May 6, 2021 (EDT) ===============
+12:54:26.874393 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:54:26.878557 version@stat F·[1] S·127B[127B] Sc·[0.25]
+12:54:26.879098 db@open opening
+12:54:26.879678 journal@recovery F·1
+12:54:26.880543 journal@recovery recovering @7
+12:54:26.883435 version@stat F·[1] S·127B[127B] Sc·[0.25]
+12:54:26.891922 db@janitor F·3 G·0
+12:54:26.892356 db@open done T·12.885ms
+=============== May 6, 2021 (EDT) ===============
+13:12:22.178376 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:12:22.195996 version@stat F·[1] S·127B[127B] Sc·[0.25]
+13:12:22.196391 db@open opening
+13:12:22.196941 journal@recovery F·1
+13:12:22.197546 journal@recovery recovering @9
+13:12:22.200420 version@stat F·[1] S·127B[127B] Sc·[0.25]
+13:12:22.208547 db@janitor F·3 G·0
+13:12:22.208892 db@open done T·12.167ms

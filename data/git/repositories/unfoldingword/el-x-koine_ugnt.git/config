@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+[remote "origin"]
+	url = https://git.door43.org/unfoldingWord/el-x-koine_ugnt.git
+	fetch = +refs/*:refs/*
+	mirror = true

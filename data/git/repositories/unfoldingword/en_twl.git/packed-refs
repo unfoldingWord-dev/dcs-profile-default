@@ -1,0 +1,21 @@
+# pack-refs with: peeled fully-peeled sorted 
+7f24db2e36fa0f854d21f8500fe5fa6fbf9a2c00 refs/heads/benjamin-tw-review-exo-1
+a26c0f8289d36c2cc1be50f0b8a8b9bd0a2e1f97 refs/heads/master
+895340b6ebfe680f97e45dbf06d020fda1cdd5e8 refs/pull/1/head
+7f54053b75036c83c28e9763c7cda49db6783bdb refs/pull/10/head
+8c30fb9c5b0d4e06c099f9d2a473d28acf8a5c13 refs/pull/11/head
+2f18acc9701ac96df5580b0c727f35cf08873358 refs/pull/12/head
+1c7def157e1029ef6c5fcbfa4cc737800817df30 refs/pull/13/head
+27b4261d0412bb73f6b9ecc7d69a7744de96a840 refs/pull/14/head
+0cd0254db886a4f14486354d49c0f93b034e2f77 refs/pull/15/head
+c20030d0a21194d953dd41d38924b2189ddefe90 refs/pull/16/head
+7f24db2e36fa0f854d21f8500fe5fa6fbf9a2c00 refs/pull/2/head
+0ea932c724c3145636350bdc2badbcbda2ce208d refs/pull/3/head
+051d5d49950e0e801f0e0486a501f9b2dfa16c7c refs/pull/4/head
+4e2ed2759b1181ae11aa5e2fb529794d4866a5fd refs/pull/5/head
+64c399a1bc35dffc953769c5fa775f969858d5aa refs/pull/6/head
+eb52de273923b096f50e3a8c9e3cc1f5cd1d0c08 refs/pull/7/head
+f07f115c7b6d2e4577ff4ac61b67b1cc636fbdc9 refs/pull/8/head
+29e8f24533c48e0628ecf37e6fecdc559df87872 refs/pull/9/head
+6f261b5a3a0641a75589281ad6795eebeec5d2c7 refs/tags/v1
+7a3ccb5d879a7c2e6853cecbc67261534de5373d refs/tags/v2

@@ -1,0 +1,23 @@
+# pack-refs with: peeled fully-peeled sorted 
+e61d1d1735997980658d26e41edf5e8ba4f6fa79 refs/heads/ElsyLambert-tc-create-1
+b3dc4852ee3474b22d0e4d5778bd4396d2116198 refs/heads/master
+29b6587fae454874f794544d63610c2b26d4b827 refs/heads/newFormat
+ba70605b13f4d270e1dd4168adc4fec56f1f38ef refs/pull/1/head
+a3c19ad1a7c1fadbb4ff5475318be9f2447af83f refs/pull/10/head
+d283a1efec1a2c705d911e6bc37c8890f95daa99 refs/pull/11/head
+2209e27468cfc615872ae5360ce1dea4e42da896 refs/pull/12/head
+2c680e45085e95c7df82b5ea284a2e4814a608c2 refs/pull/13/head
+a1f19c6f6e95739856b94b03d89f4891f81aaf39 refs/pull/14/head
+29b6587fae454874f794544d63610c2b26d4b827 refs/pull/15/head
+241c261c63e52312899647014e9f1f6eaa8ca6b9 refs/pull/2/head
+24b8fc6ce3fd97f5dadff885b1789e28effecae1 refs/pull/3/head
+30df4de9ac9131e89bffa689a1c50591f0cd8f80 refs/pull/4/head
+1ede5eefddde5cd1ee2eb551d5e4678b14ebe765 refs/pull/5/head
+69ebf7867e7104b04654823f0a59aebe2d49ac11 refs/pull/6/head
+8024275d996dc53be9b782ca952a8d9c3c25c623 refs/pull/7/head
+f08e5c0a5359278adda7db68e0657aa3048f7d41 refs/pull/8/head
+f37bdda02c6d74d7da16b8249cafe6e703cc43d6 refs/pull/9/head
+f8fffdafe67252406b40b84884f4528fde308c6e refs/tags/v1
+d0ddb38b53ca60e2192529e77c111b3a23806c0b refs/tags/v2
+9611dde43d470febfb8e30815db0c1bb7dac0d36 refs/tags/v3
+903799c41a0e8d708f5412692e60c24733451a83 refs/tags/v4
